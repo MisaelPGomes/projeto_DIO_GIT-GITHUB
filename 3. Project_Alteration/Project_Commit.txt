@@ -1,0 +1,18 @@
+# Passos após alterações no projeto
+
+- Após quaisquer modificações no projeto, execute a linha de código:
+git status
+
+-git status irá mostrar que há untracked files, 
+ou seja, arquivos que não estão dentro do commit
+
+- Para adicionar as modificações, execute o seguinte código:
+git add * 
+
+O comando git add * irá adicionar ao commit todas as alterações realizadas no projeto
+
+- Ao executar novamente o comando git status,
+o git bash irá mostrar que os arquivos forá adicionados ao stage
+
+- Para enviar as alteracoes para o github
+execute git push origin, assim alterações serão enviadas

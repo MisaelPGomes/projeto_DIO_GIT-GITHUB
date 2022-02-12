@@ -1,0 +1,15 @@
+# Passos parar criar um repositório no GitHub:
+
+- Clique no menu lado superior direito na opção "Your repositories"
+Esse comando abrirá os repositórios existentes
+
+- Aperte o Botão Verde "New"
+Clicando no botão "New", o github criará um novo repositório
+
+Escolha um nome para o novo repositório
+Defina se será um repositório plublico ou privado 
+
+Configure a existencia ou não de um README file
+
+e em seguida click
+"Create Repository"

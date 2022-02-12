@@ -1,0 +1,11 @@
+# Passos parar clonar um repositório do GitHub no computador:
+
+- Na aba Code, copie o SSH do repositório, (no exemplo do projeto o SSH é: git@github.com:MisaelPGomes/dio-desafio-github.git)  
+- Crie uma pasta onde o repositório será clonado
+- Abra o Git Bash na pasta
+- execute o código :
+git clone git@github.com:MisaelPGomes/dio-desafio-github.git
+
+- Adicione sua senha pessoal e aguarde
+
+- Pronto! o repositório foi clonado
