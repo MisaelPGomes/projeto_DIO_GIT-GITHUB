@@ -14,5 +14,7 @@ O comando git add * irá adicionar ao commit todas as alterações realizadas no
 - Ao executar novamente o comando git status,
 o git bash irá mostrar que os arquivos forá adicionados ao stage
 
+- execute a linha git commit -m "inclusao de modificações no passo a passo de atualizacoes do projeto"
+
 - Para enviar as alteracoes para o github
-execute git push origin, assim alterações serão enviadas
+execute git push origin main, assim alterações serão enviadas
